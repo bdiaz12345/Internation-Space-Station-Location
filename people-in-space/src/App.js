@@ -18,10 +18,12 @@ const Content = styled.div`
     flex-direction: column;
     align-items: center;
     padding: 2rem;
+    margin-top: 5rem;
 `
 
 const Title = styled.h1`
     color: white;
+    text-align: center;
 `
 
 class App extends Component {
